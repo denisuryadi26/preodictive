@@ -1,7 +1,7 @@
 <h1 align="center">Selamat datang di Preodictive! 👋</h1>
 
 ### 🤔 Apa itu Preodictive?
-Web Edukasi Open Source yang dibuat oleh <a href="https://github.com/syauqi"> Syauqi Zaidan Khairan Khalaf. </a> **Preodictive adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis.** Preodictive dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
+Web Edukasi Open Source yang dibuat oleh <a href="https://github.com/denisuryadi26"> Deni Suryadi. </a> **Preodictive adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis.** Preodictive dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
 ### 🤨 Fitur apa saja yang tersedia di preodictive?
 - Student Login System
