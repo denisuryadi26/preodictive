@@ -47,8 +47,8 @@ Web Edukasi Open Source yang dibuat oleh <a href="https://github.com/denisuryadi
 ## 🧑 Author
 
 👤 <a href="https://web.facebook.com/deni.suryadi26"> **Syauqi Zaidan Khairan Khalaf**</a>
-- Twitter : <a href="https://twitter.com/denisuryadi26"> @syaaauqi</a>
-- Facebook : <a href="https://web.facebook.com/deni.suryadi26"> Syauqi Zaidan Khairan Khalaf</a>
-- Instagram : <a href="https://www.instagram.com/denisuryadi26/">@syaufy </a>
+- Twitter : <a href="https://twitter.com/denisuryadi26"> @denisuryadi26</a>
+- Facebook : <a href="https://web.facebook.com/deni.suryadi26"> Deni Suryadi</a>
+- Instagram : <a href="https://www.instagram.com/denisuryadi26/">@denisuryadi26 </a>
 
 ------------
